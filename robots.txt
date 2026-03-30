@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prhotple.github.io/sitemap.xml
+Sitemap: http://prhotple.github.io/sitemap.xml
